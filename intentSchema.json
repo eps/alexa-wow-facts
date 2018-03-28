@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "AffixIntent",
+      "slots": [
+        {
+          "name": "Affix",
+          "type": "LIST_OF_AFFIXES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+
+GetWowFactIntent a fact
+GetWowFactIntent a wow fact
+GetWowFactIntent tell me a fact
+GetWowFactIntent tell me a wow fact
+GetWowFactIntent give me a fact
+GetWowFactIntent give me a wow fact
+GetWowFactIntent tell me trivia
+GetWowFactIntent tell me a wow trivia
+GetWowFactIntent give me trivia
+GetWowFactIntent give me a wow trivia
+GetWowFactIntent give me some information
+GetWowFactIntent give me some wow information
+GetWowFactIntent tell me something
+GetWowFactIntent give me something
